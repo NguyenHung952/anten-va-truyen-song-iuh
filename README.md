@@ -48,10 +48,6 @@ Ngoài các thư mục trên, repository có tài liệu tổng hợp ở thư m
 - `StackEdit bt anten chương 1.pdf`
 - `Đề Thi Giữa Kỳ Anten Truyền Sóng IUH - Google Gemini.pdf`
 
-## Lưu ý về file lớn
-
-Thư mục nguồn ban đầu có file `02_Giao_trinh/Anten_va_Truyen_song.pdf` với kích thước **110.83 MB**. File này không được đưa lên GitHub vì vượt giới hạn 100 MB cho một file thông thường. Đường dẫn file được giữ trong `.gitignore` để tránh bị thêm lại ngoài ý muốn.
-
 ## Mục đích
 
 - Tập trung tài liệu môn **Anten và Truyền sóng** vào một repository.
