@@ -6,7 +6,7 @@ Kho tài liệu học tập môn **Anten và Truyền sóng** tại IUH.
 
 Repository được dành cho tài liệu bài giảng, giáo trình, bài tập, ôn tập và tài liệu tham khảo của môn học.
 
-> Hiện tại repository GitHub chỉ hiển thị `README.md`; chưa có các file học tập khác được GitHub ghi nhận trong cây `main`. fileciteturn6file0L2-L2
+> Hiện tại repository GitHub chỉ hiển thị `README.md`; chưa có các file học tập khác được GitHub ghi nhận trong cây `main`. 
 
 ## Mục đích
 
